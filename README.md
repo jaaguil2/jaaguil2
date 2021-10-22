@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## 🔭 I’m currently working on ...
-- General Assembly bootcamp capstone project
+- General Assembly | Capstone Project
 
 ##  🌱 I’m currently learning ...
-- Angular
-- Jekyll
+- Angular (TS, RxJS)
 - Heroku deployment
+- Jekyll w/github pages
