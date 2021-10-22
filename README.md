@@ -6,4 +6,4 @@
 ##  🌱 I’m currently learning ...
 - Angular (TS, RxJS)
 - Heroku deployment
-- Jekyll w/github pages
+- Jekyll w/Github Pages
