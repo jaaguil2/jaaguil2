@@ -1,7 +1,10 @@
 # Hello there 👋
 
+## My Portfolio
+Check it out [here](https://jaaguil2.github.io/).:telescope:
+
 ## 🔭 I’m currently working on ...
-- An awesome looking portfolio!
+- Getting ready for a new job :bowtie:
 
 ##  🌱 I’m currently learning ...
-- Jekyll w/Github Pages
+- Working with a professional team!!!:office:
